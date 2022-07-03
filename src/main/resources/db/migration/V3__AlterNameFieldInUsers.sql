@@ -1,0 +1,2 @@
+ALTER TABLE USERS
+  RENAME COLUMN name TO full_name;
